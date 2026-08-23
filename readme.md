@@ -4,7 +4,7 @@
 
 Filament Pilot ist eine Windows-Desktop-App für 3D-Druck-Enthusiasten und professionelle Anwender, die ihre Filamente systematisch verwalten möchten.
 
-**Website & Download:** [filamentpilot.machbar3d.com](https://filamentpilot.machbar3d.com/)
+**Website & Download:** [filamentpilot.com](https://filamentpilot.com/)
 
 ---
 
@@ -36,7 +36,7 @@ Die aktuelle Version (Windows Installer, `.exe`) findest du im
 
 Vollständige Dokumentation, Funktionsübersicht und Kontakt:
 
-**[filamentpilot.machbar3d.com](https://filamentpilot.machbar3d.com/)**
+**[filamentpilot.com](https://filamentpilot.com/)**
 
 ---
 
